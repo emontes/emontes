@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enrique Montes
 ======================================================================================================================================
 
-Web Developer / Frontend Developer
+Web Developer / Front end Developer
 ----------------------------------
 
-In the Jamstack era, I think Gatsby is the best way to get high rankings in Google's Lighthouse. Currently, I am only developing JamStack with Gatsby.js, but I have a long history in systems developing.
+In the Jamstack era, I think Gatsby (a Reactjs Framework) is the best way to get high rankings in Google's Lighthouse. Currently, I am developing JamStack with Gatsby.js, but I have a long history in systems developing.
 
 * 🌍  I'm based in Cancun
 * 🖥️  See my portfolio at [Enrique Montes.com](http://enriquemontes.com/developments/)
@@ -47,4 +47,13 @@ src="https://img.shields.io/github/followers/emontes?logo=github&style=for-the-b
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
 <a href="https://github.com/emontes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emontes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/emontes"><img src="https://github-readme-stats.vercel.app/api?username=emontes&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emontes's GitHub stats" /></a>
+
+<a href="http://www.github.com/emontes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emontes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/emontes"><img src="https://activity-graph.herokuapp.com/graph?username=emontes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
