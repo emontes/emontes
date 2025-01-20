@@ -8,6 +8,7 @@ In the Jamstack era, I think Gatsby (a Reactjs Framework) is the best way to get
 
 * 🌍  I'm based in Cancun
 * 🖥️  See my portfolio at [Enrique Montes.com](http://enriquemontes.com/developments/)
+* 🖥️  Hire me at [Upwork](https://www.upwork.com/freelancers/enriqueadelino)
 * 🧠  I'm learning Strapi Advanced
 * 🤝  I'm open to collaborating on Gatsby and React Projects
 * ⚡  I'm a workoholic... but don't tell anyone
